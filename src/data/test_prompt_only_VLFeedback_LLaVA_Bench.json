@@ -1,0 +1,362 @@
+[
+  {
+    "uid": "llava_bench_0",
+    "prompt": "What is the name of this famous sight in the photo?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_0.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_1",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_1.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_2",
+    "prompt": "What are the possible reasons of the formation of this sight?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_2.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_3",
+    "prompt": "Compose an engaging travel blog post about a recent trip to this place, highlighting cultural experiences and must-see attractions, including both the attraction seen in the photo and other must-see attractions as well.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_3.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_4",
+    "prompt": "What type of fruit is this?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_4.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_5",
+    "prompt": "How many uncut fruits are in the image?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_5.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_6",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_6.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_7",
+    "prompt": "Imagine the fragrance of the fruits in the image. How would you describe this to someone who has never had this fruit before?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_7.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_8",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_8.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_9",
+    "prompt": "What might be the intended effect of this painting?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_9.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_10",
+    "prompt": "Discuss how this creative twist on a classic work of art might be interpreted differently by various audiences.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_10.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_11",
+    "prompt": "What is the name of the man in the photo?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_11.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_12",
+    "prompt": "Which iconic movie scene is being parodied in the meme?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_12.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_13",
+    "prompt": "How does this meme reflect or comment on Elon Musk's public image, personality, or actions?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_13.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_14",
+    "prompt": "Please explain the meme in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_14.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_15",
+    "prompt": "In what other ways might someone express the same sentiment that this meme is expressing?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_15.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_16",
+    "prompt": "Do you know who paint this?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_16.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_17",
+    "prompt": "Describe this painting in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_17.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_18",
+    "prompt": "Discuss the historical impact and the significance of this painting in the art world.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_18.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_19",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_19.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_20",
+    "prompt": "What's the best weather, season, time of the day of visiting this place?  Is the time when this photo was taken a good time to visit this place?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_20.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_21",
+    "prompt": "What is the name of the character in the image?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_21.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_22",
+    "prompt": "What's the personality of this character? Explain what elements or aspects of the character's design may have contributed to its popularity.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_22.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_23",
+    "prompt": "What are the things I should be cautious about when I visit here?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_23.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_24",
+    "prompt": "If you were a photographer looking to capture this location's essence, what time of day and weather conditions would you choose? Describe the reasons behind your choice.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_24.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_25",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_25.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_26",
+    "prompt": "What is unusual about this image?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_26.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_27",
+    "prompt": "What fruit is in the left part of the fridge?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_27.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_28",
+    "prompt": "What is the brand of the yogurt flavored with blueberry?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_28.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_29",
+    "prompt": "Is there any strawberry-flavored yogurt in the fridge?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_29.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_30",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_30.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_31",
+    "prompt": "What are the meals that I can cook with these?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_31.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_32",
+    "prompt": "How many coffee mugs are in the set?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_32.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_33",
+    "prompt": "Write an attractive product description for this.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_33.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_34",
+    "prompt": "Show the detailed recipe for this dish.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_34.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_35",
+    "prompt": "Can you explain this meme in detail?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_35.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_36",
+    "prompt": "What are the two machine learning concepts mentioned in the meme?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_36.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_37",
+    "prompt": "Give a detailed description of this meme.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_37.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_38",
+    "prompt": "Can you explain why this is funny. Think about it step-by-step.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_38.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_39",
+    "prompt": "Give a detailed description of this image.  Describe it panel by panel.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_39.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_40",
+    "prompt": "What is funny about this image? Describe it panel by panel.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_40.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_41",
+    "prompt": "What material appears to make up the creature?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_41.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_42",
+    "prompt": "This is the logo of LLaVA, Large Language and Vision Assistant, based on the LLaMA architecture. Please explain this logo in detail, and how do you think of its design.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_42.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_43",
+    "prompt": "What are the animals in the painting and what are they doing?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_43.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_44",
+    "prompt": "Write a fairy tale based on this painting.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_44.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_45",
+    "prompt": "Describe this sketch in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_45.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_46",
+    "prompt": "Write brief HTML/JS to turn this mock-up into a colorful website, where the jokes are replaced by two real jokes.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_46.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_47",
+    "prompt": "Describe this sketch in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_47.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_48",
+    "prompt": "Write brief HTML/JS to turn this mock-up into a colorful and interactive website, where the joke is replaced by a real joke.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_48.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_49",
+    "prompt": "What's the ending of this movie?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_49.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_50",
+    "prompt": "What is the significance of this scene in the context of the movie?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_50.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_51",
+    "prompt": "What's the name of the restaurant serving these dishes?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_51.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_52",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_52.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_53",
+    "prompt": "If someone were to recommend a new flavor or topping to the dish, describe the reason for this change and how it might alter the overall taste.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_53.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_54",
+    "prompt": "What brand is featured in this advertisement?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_54.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_55",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_55.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_56",
+    "prompt": "Show me a detailed recipe for cooking this at home.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_56.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_57",
+    "prompt": "Describe this photo in detail.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_57.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_58",
+    "prompt": "What is the problem this city might be facing? What are some possible solutions?",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_58.png",
+    "source": "llava-bench-in-the-wild"
+  },
+  {
+    "uid": "llava_bench_59",
+    "prompt": "Explain all the cues that indicate the current traffic conditions.",
+    "image": "vlfeedback_raw/llava_bench_images/llava_bench_59.png",
+    "source": "llava-bench-in-the-wild"
+  }
+]
