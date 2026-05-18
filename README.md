@@ -3,7 +3,7 @@
 The implementation of **Aligning Foundation Models with Diverse User Preferences via Collaborative Pareto Optimization**. \
 Pengxin Guo, Kunyang Song, Jinjing Zhu, Yuyin Zhou, Hui Xiong, and Liangqiong Qu.
 
-<img src="./figs/FedPA.png" alt="framework" width="700" /> 
+<img src="./figs/FedPA.png" alt="framework" width="500" /> 
 
 ##### Figure 1. Overview of the FedPA framework. **Top:** The central server samples a preference vector $\boldsymbol{\alpha}$ and performs weighted aggregation of client updates. **Bottom:** Each client trains locally using the PCLoRA module, which injects the preference signal via a learned modulation matrix $\mathbf{W}(\boldsymbol{\alpha})$. Components $\mathbf{B}$, $\boldsymbol{\varphi}$, and $\mathbf{A}$ are updated via an alternating optimization strategy to avoid aggregation errors caused by naively averaging multiplicative low-rank parameters.
 
